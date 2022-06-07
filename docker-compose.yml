@@ -1,4 +1,5 @@
 services:
+  String-Session-Generator_Bot
     build: .
     environment:
       API_ID: $API_ID  
