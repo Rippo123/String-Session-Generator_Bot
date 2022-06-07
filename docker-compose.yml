@@ -1,5 +1,4 @@
 services:
-  kc-films-bot:
     build: .
     environment:
       API_ID: $API_ID  
